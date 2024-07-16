@@ -1,0 +1,69 @@
+body {
+  background-color: black;
+}
+.div-shadow {
+  width: 440px;
+  height: 300px;
+  line-height: 50px;
+  margin: 30px auto;
+  background: #222;
+  color: #fff;
+  border: 1px solid #fff;
+  box-shadow: 0 0 20px #fff;
+}
+img {
+  border-radius: 50%;
+}
+a {
+  text-decoration: none;
+  color: aqua;
+}
+.mysite {
+  display: flex;
+}
+h1 {
+  color: orange;
+}
+hr {
+  color: aqua;
+}
+h2 {
+  color: aqua;
+  font-size: 18px;
+}
+h3 {
+  color: orange;
+  font-size: 25px;
+}
+h4 {
+  color: orange;
+  font-size: 25px;
+}
+h6 {
+  color: aqua;
+  font-size: 18px;
+}
+p {
+  color: white;
+  font-size: 20px;
+}
+input {
+  color: aqua;
+}
+form {
+  color: aqua;
+}
+label {
+  color: aqua;
+}
+table {
+  color: white;
+  text-align: center;
+}
+li {
+  color: white;
+}
+.block_row{
+  display: flex;
+}
+
